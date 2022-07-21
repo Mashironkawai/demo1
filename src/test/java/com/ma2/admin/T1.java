@@ -63,5 +63,8 @@ public class T1{
             System.out.println(yearlist);
         }
     }
+        public  static void m2(){
+
+        };
 }
 
